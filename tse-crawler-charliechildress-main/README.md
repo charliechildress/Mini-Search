@@ -1,10 +1,4 @@
-```
-****************
-* EXTENSION USED
-****************
-```
-# CS50 TSE
-## Charlie Childress (charliechildress)
+## Charlie Childress
 
 The assignment and Specs are in a [public repo](https://github.com/cs50winter2022/labs/tse). 
 
